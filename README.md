@@ -1,4 +1,4 @@
-# Build a Fullstack Inventory Management Dashboard
+# Fullstack Inventory Management Dashboard
 
 ## Tech Stack
 
